@@ -12,3 +12,4 @@ new update
 this is a test change 1
 this is test change 2
 test3 
+test4\n
